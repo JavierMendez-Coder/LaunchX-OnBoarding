@@ -5,11 +5,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/logo.png">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/JavierMendez-Coder/LaunchX-OnBoarding">
+    <img src="https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Launch X's On Boarding</h3>
+<h3 align="center">Launch X - On Boarding</h3>
 
   <p align="center">
     Assignments from Launch X's Python Introduction Course
