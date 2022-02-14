@@ -61,13 +61,13 @@ test-project/
     └── app.py <-- Here.
 ```
 
-Here is the [code](https://github.com/JavierMendez-Coder/Module2Katas/blob/master/src/app.py) inside the `app.py` file, in case you want to try it yourself.
+Here is the [code](src/app.py) inside the `app.py` file, in case you want to try it yourself.
 
 ![app.py code](src/images/Screenshot_09.png)
 
 To run the code we should navigate to the `src/` folder and then look for the `app.py` file, hit enter, and two ouputs should appear in the command prompt:
-1. An output with your current date.
-2. An output the current date ahead by one month, one week, and the hours set to ten.
+1. An output displaying the current date.
+2. An output displaying the current date ahead by one month, one week, and the hours set to ten.
 
 ![cmd app.py outputs](src/images/Screenshot_10.png)
 
