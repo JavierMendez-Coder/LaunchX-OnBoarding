@@ -41,11 +41,10 @@
 
 
 
----
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project contains assignments from the Launch X's Python introduction course, said exercises where designed to teach basic python concepts to beginners and newcomers.
+This project contains assignments from the Launch X's Python introduction course, said exercises were designed to teach basic python concepts to beginners and newcomers.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -59,7 +58,6 @@ This project contains assignments from the Launch X's Python introduction course
 
 
 
----
 <!-- CONTACT -->
 ## Contact
 
@@ -72,4 +70,3 @@ Project Link: [https://github.com/JavierMendez-Coder/LaunchX-OnBoarding](https:/
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
